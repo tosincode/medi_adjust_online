@@ -1,0 +1,2904 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: medicaldirectory\n"
+"POT-Creation-Date: 2016-06-17 14:42+0600\n"
+"PO-Revision-Date: 2016-06-17 14:42+0600\n"
+"Last-Translator: \n"
+"Language-Team: medicaldirectory <aktar567@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: category.php:25 archive-doctor.php:405 single-hospital.php:120
+#: single-hospital.php:135 single-hospital.php:286 single-hospital.php:375
+#: single-hospital.php:432 single-hospital.php:478 tag.php:22 single.php:21
+#: footer.php:55 search.php:22 page-grid.php:26 single-doctor.php:260
+#: single-doctor.php:389 archive.php:30 archive-hospital.php:425
+#: templates/page/content-page.php:10 templates/topS/header-top12.php:4
+#: templates/topS/header-top10.php:4 templates/topS/header-top8.php:4
+#: templates/topS/header-top13.php:9 templates/topS/header-top3.php:3
+#: templates/topS/header-top7.php:4 templates/topS/header-top11.php:4
+#: templates/topS/header-top11.php:8 templates/topS/header-top9.php:4
+#: templates/blog/content-gridNS.php:19 templates/blog/content-listNS.php:23
+#: templates/blog/content-list.php:21 templates/blog/content-grid.php:19
+#: templates/headerS/header-four.php:10 templates/headerS/header-six.php:10
+#: templates/headerS/header-two.php:10 templates/headerS/header-five.php:10
+#: templates/headerS/header-three.php:10 templates/headerS/header-one.php:10
+#: framework/ext/widget-latest-hospital.php:72
+#: framework/ext/widget-latest-hospital.php:76
+#: framework/ext/widget-latest-doctor.php:72
+#: framework/ext/widget-latest-doctor.php:76
+#: framework/ext/widget-contact-info.php:53
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:180
+#: framework/redux/ReduxCore/inc/fields/media/field_media.php:190
+#: framework/redux/ReduxCore/inc/fields/gallery/field_gallery.php:67
+#: framework/uoulib/class-tgm-plugin-activation.php:2322
+msgid "image"
+msgstr ""
+
+#: category.php:49 tag.php:46 single.php:61 search.php:46 archive.php:54
+msgid "No post have found!"
+msgstr ""
+
+#: category.php:76 tag.php:72 single.php:147 search.php:72 page-grid.php:94
+#: page.php:70 archive.php:82 templates/blog/content-blogChoose.php:42
+#: templates/blog/content-blogChoose.php:97
+msgid "Please activate some Widgets"
+msgstr ""
+
+#: archive-doctor.php:128 single-hospital.php:16 single-doctor.php:25
+#: archive-hospital.php:135 templates/contact-us-template.php:10
+#: templates/about-us.php:10 templates/full-width-page.php:10
+msgid "banner"
+msgstr ""
+
+#: archive-doctor.php:132 archive-hospital.php:138
+msgid " Directory"
+msgstr ""
+
+#: archive-doctor.php:154 archive-hospital.php:158
+msgid "Keyword"
+msgstr ""
+
+#: archive-doctor.php:237 single-hospital.php:526 single-doctor.php:399
+#: archive-hospital.php:240
+#: framework/hospital-doctor-directory/template/hospital/slider-search.php:30
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:507
+msgid "Location"
+msgstr ""
+
+#: archive-doctor.php:246 archive-doctor.php:270 searchform.php:2
+#: archive-hospital.php:266 archive-hospital.php:287
+#: framework/hospital-doctor-directory/template/hospital/slider-search.php:127
+msgid "Search"
+msgstr ""
+
+#: archive-doctor.php:271 archive-hospital.php:288
+msgid "Show Map"
+msgstr ""
+
+#: archive-doctor.php:280 archive-doctor.php:311 archive-hospital.php:299
+#: archive-hospital.php:332
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:52
+#: framework/hospital-doctor-directory/admin/pages/settings.php:517
+msgid "Show All"
+msgstr ""
+
+#: archive-doctor.php:472
+msgid "Sorry, no doctor matched your criteria."
+msgstr ""
+
+#: single-hospital.php:148
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:129
+msgid "About Us"
+msgstr ""
+
+#: single-hospital.php:158 single-doctor.php:122
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:139
+msgid "Added to Favorites"
+msgstr ""
+
+#: single-hospital.php:162 single-hospital.php:168 single-doctor.php:126
+#: single-doctor.php:132
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:143
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:149
+msgid "Add to Favorites"
+msgstr ""
+
+#: single-hospital.php:241 single-doctor.php:212
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:222
+msgid "Specialties"
+msgstr ""
+
+#: single-hospital.php:271
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:252
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:664
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:593
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:573
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:589
+msgid "Awards"
+msgstr ""
+
+#: single-hospital.php:327 single-doctor.php:304
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:308
+msgid "Video"
+msgstr ""
+
+#: single-hospital.php:364
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:345
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1202
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1025
+msgid "Event"
+msgstr ""
+
+#: single-hospital.php:414
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:395
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:812
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:663
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:686
+msgid "Our "
+msgstr ""
+
+#: single-hospital.php:441
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:422
+msgid "View Profile"
+msgstr ""
+
+#: single-hospital.php:519 single-doctor.php:393
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:500
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:615
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:544
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:647
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:540
+msgid "Contact Info"
+msgstr ""
+
+#: single-hospital.php:531 single-doctor.php:404
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:100
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:512
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:627
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:556
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:659
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:552
+msgid "Phone"
+msgstr ""
+
+#: single-hospital.php:534 single-doctor.php:407
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:515
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:633
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:562
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:665
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:558
+msgid "Fax"
+msgstr ""
+
+#: single-hospital.php:536 single-doctor.php:409
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:124
+#: framework/hospital-doctor-directory/admin/pages/settings.php:53
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:114
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:517
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:245
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:254
+msgid "Email"
+msgstr ""
+
+#: single-hospital.php:538 single-doctor.php:411
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:519
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:647
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:576
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:679
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:572
+msgid "Web Site"
+msgstr ""
+
+#: single-hospital.php:541 single-doctor.php:415
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:128
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:522
+msgid "Social Profile"
+msgstr ""
+
+#: single-hospital.php:550 single-doctor.php:424
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:531
+msgid "Facebook Profile"
+msgstr ""
+
+#: single-hospital.php:556 single-doctor.php:430
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:537
+msgid "Twitter Profile"
+msgstr ""
+
+#: single-hospital.php:562 single-doctor.php:436
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:543
+msgid "linkedin Profile"
+msgstr ""
+
+#: single-hospital.php:568 single-doctor.php:442
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:549
+msgid "google+ Profile"
+msgstr ""
+
+#: single-hospital.php:575 single-doctor.php:450
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:556
+msgid "Share"
+msgstr ""
+
+#: single-hospital.php:576 single-doctor.php:451
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:557
+msgid "Share On Facebook"
+msgstr ""
+
+#: single-hospital.php:578 single-doctor.php:453
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:559
+msgid "Share On Twitter"
+msgstr ""
+
+#: single-hospital.php:580 single-doctor.php:455
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:561
+msgid "Share On linkedin"
+msgstr ""
+
+#: single-hospital.php:582 single-doctor.php:457
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:563
+msgid "Share On google+"
+msgstr ""
+
+#: single-hospital.php:608 single-doctor.php:519
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:589
+msgid "Working Time"
+msgstr ""
+
+#: single-hospital.php:628 single-doctor.php:538
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:608
+msgid "Reviews"
+msgstr ""
+
+#: single-hospital.php:652 single-hospital.php:655 single-hospital.php:658
+#: single-hospital.php:661 single-hospital.php:664 single-doctor.php:564
+#: single-doctor.php:567 single-doctor.php:570 single-doctor.php:573
+#: single-doctor.php:576
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:632
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:635
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:638
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:641
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:644
+msgid "Submit Rating"
+msgstr ""
+
+#: single-hospital.php:682
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:662
+msgid "Contact Us"
+msgstr ""
+
+#: single-hospital.php:688 single-hospital.php:723 single-doctor.php:602
+#: single-doctor.php:642
+#: framework/hospital-doctor-directory/template/private-profile/contact_popup.php:15
+msgid "Enter Subject"
+msgstr ""
+
+#: single-hospital.php:691 single-doctor.php:605
+msgid "Enter Email"
+msgstr ""
+
+#: single-hospital.php:694 single-hospital.php:726 single-doctor.php:608
+#: single-doctor.php:645
+#: framework/hospital-doctor-directory/template/private-profile/contact_popup.php:19
+msgid "Please Enter Message"
+msgstr ""
+
+#: single-hospital.php:694 single-hospital.php:726 single-doctor.php:608
+#: single-doctor.php:645
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:674
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:706
+#: framework/hospital-doctor-directory/template/private-profile/contact_popup.php:18
+msgid "Enter Message"
+msgstr ""
+
+#: single-hospital.php:697 single-doctor.php:611
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:677
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:36
+msgid "Send Message"
+msgstr ""
+
+#: single-hospital.php:720
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:108
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:700
+msgid "Claim"
+msgstr ""
+
+#: single-hospital.php:723 single-doctor.php:638 single-doctor.php:642
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:703
+msgid "Claim The Listing"
+msgstr ""
+
+#: single-hospital.php:729 single-doctor.php:648
+#: framework/hospital-doctor-directory/template/hospital/ajax-single-hospital.php:709
+msgid "Submit Claim"
+msgstr ""
+
+#: comments.php:24
+msgid "The post is password protected ! Enter password to see the post"
+msgstr ""
+
+#: comments.php:85
+msgid "comments are closed ."
+msgstr ""
+
+#: single.php:57
+msgid "No Tag have Found!"
+msgstr ""
+
+#: single.php:68
+msgid "Share This Story"
+msgstr ""
+
+#: single.php:103
+msgid "Back To Home"
+msgstr ""
+
+#: single.php:113 templates/full-width-page.php:34
+msgid "Comments"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: header.php:18
+msgid "Menu"
+msgstr ""
+
+#: header.php:19
+msgid "X"
+msgstr ""
+
+#: single-doctor.php:114
+msgid "Profile Description"
+msgstr ""
+
+#: single-doctor.php:244
+msgid "Awards & Certificates"
+msgstr ""
+
+#: single-doctor.php:344
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:940
+msgid "Appointment"
+msgstr ""
+
+#: single-doctor.php:595
+msgid "Contact Me"
+msgstr ""
+
+#: page.php:44
+msgid "are closed from Admin-Pannel"
+msgstr ""
+
+#: archive.php:17
+msgid "Archives"
+msgstr ""
+
+#: archive-hospital.php:253
+msgid "Radius"
+msgstr ""
+
+#: archive-hospital.php:430
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:209
+msgid "VIEW DETAIL"
+msgstr ""
+
+#: archive-hospital.php:490
+msgid "Sorry, no hospital matched your criteria."
+msgstr ""
+
+#: templates/home.php:120
+msgid "Register Now"
+msgstr ""
+
+#: templates/header-login.php:14
+msgid "&nbsp;Profile &nbsp;"
+msgstr ""
+
+#: templates/header-login.php:15
+msgid "Logout"
+msgstr ""
+
+#: templates/header-login.php:25
+#: framework/hospital-doctor-directory/plugin.php:572
+msgid "Login"
+msgstr ""
+
+#: templates/header-login.php:29
+msgid "User name"
+msgstr ""
+
+#: templates/header-login.php:30
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:37
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:140
+msgid "Password"
+msgstr ""
+
+#: templates/header-login.php:36
+msgid "Remember Me"
+msgstr ""
+
+#: templates/header-login.php:43 templates/header-login.php:46
+msgid "Register"
+msgstr ""
+
+#: templates/header-login.php:49
+msgid "username"
+msgstr ""
+
+#: templates/header-login.php:50
+msgid "email"
+msgstr ""
+
+#: templates/header-login.php:51
+msgid "password"
+msgstr ""
+
+#: templates/header-login.php:52
+msgid "Register Here"
+msgstr ""
+
+#: templates/topS/header-top8.php:8
+msgid "Call Us:"
+msgstr ""
+
+#: templates/topS/header-top13.php:12 templates/topS/header-top9.php:7
+msgid "Shopping Cart"
+msgstr ""
+
+#: templates/blog/content-blogChoose.php:18
+#: templates/blog/content-blogChoose.php:74
+#: templates/blog/content-blogChoose.php:122
+#: templates/blog/content-blogChoose.php:153
+msgid "Sorry ! no blog post found "
+msgstr ""
+
+#: framework/ext/widget-tag.php:77
+#: framework/ext/medicaldirectory-hospital.php:82
+#: framework/ext/widget-newsletter-subscription.php:113
+#: framework/ext/widget-social.php:135 framework/ext/widget-categories.php:93
+#: framework/ext/medicaldirectory-doctor.php:79
+#: framework/ext/widget-logo.php:70 framework/ext/widget-catagories_one.php:91
+#: framework/ext/widget-legal.php:113
+#: framework/ext/widget-contact-info.php:129
+#: framework/ext/widget-archives.php:116
+msgid "Title:"
+msgstr ""
+
+#: framework/ext/widget-tag.php:79
+msgid "Taxonomy:"
+msgstr ""
+
+#: framework/ext/medicaldirectory-hospital.php:87
+#: framework/ext/medicaldirectory-doctor.php:84
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/ext/medicaldirectory-hospital.php:92
+#: framework/ext/medicaldirectory-doctor.php:89
+msgid "Words of words to be displayed:"
+msgstr ""
+
+#: framework/ext/medicaldirectory-hospital.php:97
+#: framework/ext/medicaldirectory-doctor.php:94
+msgid "Only Display Ids "
+msgstr ""
+
+#: framework/ext/medicaldirectory-hospital.php:98
+#: framework/ext/medicaldirectory-doctor.php:95
+msgid "Enter IDs by , [# of post will not work]"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:59
+msgid "Newsletter"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:62
+msgid ""
+" Subscribe to our newsletter to receive our latest news and updates. We do "
+"not spam."
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:66
+msgid "Enter your email address"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:118
+msgid "Google/Feedburner ID:"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:123
+msgid "Input Text:"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:127
+msgid "Submit Text:"
+msgstr ""
+
+#: framework/ext/widget-social.php:138
+msgid "Facebook Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:141
+msgid "Twitter Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:144
+msgid "Linkedin Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:147
+msgid "GooglePlus Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:150
+msgid "Pinterest Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:155 framework/ext/widget-logo.php:73
+#: framework/ext/widget-legal.php:127
+#: framework/ext/widget-contact-info.php:144
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: framework/ext/widget-categories.php:97
+#: framework/ext/widget-catagories_one.php:95
+#: framework/ext/widget-archives.php:118
+msgid "Display as dropdown"
+msgstr ""
+
+#: framework/ext/widget-categories.php:100
+#: framework/ext/widget-catagories_one.php:98
+#: framework/ext/widget-archives.php:120
+msgid "Show post counts"
+msgstr ""
+
+#: framework/ext/widget-categories.php:103
+#: framework/ext/widget-catagories_one.php:101
+msgid "Show hierarchy"
+msgstr ""
+
+#: framework/ext/widget-legal.php:116
+msgid "Our Privacy & Policy Link:"
+msgstr ""
+
+#: framework/ext/widget-legal.php:119
+msgid "Terms & Conditions Link:"
+msgstr ""
+
+#: framework/ext/widget-legal.php:122
+msgid "Secure Payments Link:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:132
+msgid "Background Image:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:135
+msgid "Address:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:138
+msgid "Phone No:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:141
+msgid "Email :"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:347
+#: framework/hospital-doctor-directory/plugin.php:405
+msgid "Categories"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:362
+#: framework/hospital-doctor-directory/plugin.php:421
+msgid "Parent Item:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:363
+#: framework/hospital-doctor-directory/plugin.php:422
+msgid "All Items"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:364
+#: framework/hospital-doctor-directory/plugin.php:423
+msgid "Add New Item"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:365
+#: framework/hospital-doctor-directory/plugin.php:424
+msgid "Add New"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:366
+#: framework/hospital-doctor-directory/plugin.php:425
+msgid "New Item"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:367
+#: framework/hospital-doctor-directory/plugin.php:426
+msgid "Edit Item"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:368
+#: framework/hospital-doctor-directory/plugin.php:427
+msgid "Update Item"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:369
+#: framework/hospital-doctor-directory/plugin.php:428
+msgid "View Item"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:370
+#: framework/hospital-doctor-directory/plugin.php:429
+msgid "Search Item"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:371
+#: framework/hospital-doctor-directory/plugin.php:430
+msgid "Not found"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:372
+#: framework/hospital-doctor-directory/plugin.php:431
+msgid "Not found in Trash"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:467
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:470
+#: framework/hospital-doctor-directory/plugin.php:491
+#: framework/hospital-doctor-directory/plugin.php:512
+#: framework/hospital-doctor-directory/plugin.php:533
+#: framework/hospital-doctor-directory/plugin.php:554
+#: framework/hospital-doctor-directory/plugin.php:575
+msgid "Content"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:478
+#: framework/hospital-doctor-directory/plugin.php:499
+#: framework/hospital-doctor-directory/plugin.php:520
+#: framework/hospital-doctor-directory/plugin.php:541
+msgid "Style Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:480
+#: framework/hospital-doctor-directory/plugin.php:501
+#: framework/hospital-doctor-directory/plugin.php:522
+#: framework/hospital-doctor-directory/plugin.php:543
+#: framework/hospital-doctor-directory/plugin.php:585
+msgid "Default"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:481
+msgid "You can select the style from wp-admin e.g : style-1."
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:488
+msgid "Signup "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:502
+#: framework/hospital-doctor-directory/plugin.php:523
+msgid "."
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:509
+msgid "My Acount "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:530
+msgid "Public Profile "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:544
+msgid "You can select the style from wp-admin e.g : style-1 , style-2 "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:551
+msgid "User Directory "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:562
+msgid "Show  number of user / Page"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:564
+msgid "12"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:565
+msgid "You can set the number : 10,20 "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:583
+msgid " Login"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:586
+msgid "Default "
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:657
+msgid "Invalid Username & Password"
+msgstr ""
+
+#: framework/hospital-doctor-directory/plugin.php:2011
+#: framework/hospital-doctor-directory/plugin.php:2014
+msgid "Claim Approve "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:10
+msgid "User Setting"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:122
+msgid "Create Date"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:123
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:244
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:253
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:126
+msgid "User Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:125
+msgid "Expiry Date"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:126
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:578
+msgid "Payment Status"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:127
+msgid "Role"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:128
+msgid "Balance"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:129
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:53
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:221
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:47
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:316
+msgid "Action"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:169
+msgid "Edit"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:170
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:268
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:283
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:365
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:167
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:195
+#: framework/hospital-doctor-directory/template/user-directory/directory-template.php:200
+msgid "&laquo; Previous"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/user_directory_admin.php:196
+#: framework/hospital-doctor-directory/template/user-directory/directory-template.php:201
+msgid "Next &raquo;"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:29
+msgid "Review Fields"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:39
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:131
+msgid " Review Fields"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:47
+msgid "Post Meta Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:50
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:313
+msgid "Display Label"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:108
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:295
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:380
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:788
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1191
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:718
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1058
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:626
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:929
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:640
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1014
+msgid "Add More"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:116
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:24
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:392
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:155
+#: framework/hospital-doctor-directory/admin/pages/settings.php:131
+msgid "Update"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:120
+msgid ""
+"Note : Keep \"Post Meta Name\" field without space e.g Dignity_and_respect\t"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/review_fields.php:217
+msgid "Note : Keep \"Post Meta Name\" field without space e.g Bedside_Manner"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:21
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:171
+#: framework/hospital-doctor-directory/admin/pages/settings.php:32
+msgid "Please install pages, email template and setting. This is required"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:21
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:171
+#: framework/hospital-doctor-directory/admin/pages/settings.php:32
+msgid "Install Now"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:32
+msgid "My Account"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:43
+msgid "Short Code"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:51
+msgid "Php Code"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:60
+msgid "My Account Page"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:68
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:352
+msgid "View Page"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:74
+msgid "Profile Fields Setting"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:76
+msgid "Add /Edit/ Remove Profile Fields"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:81
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:36
+msgid "My Account Menu"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/membership-profile-wizard.php:83
+msgid "Show/Hide/Add Menu"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/directory-url.php:20
+msgid "Listing URL/ Custom Post Type"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/directory-url.php:38
+msgid "Listing URL 1 / CPT 1"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/directory-url.php:49
+msgid "Listing URL 2/ CPT 2"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dashboard.php:9
+msgid "iv_directories Affiliate Dashboard"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dashboard.php:10
+msgid "Your Dashboard, Summary, Status, Shortcuts to modules"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/metabox.php:21
+#: framework/hospital-doctor-directory/admin/pages/doctor-metabox.php:21
+msgid "User ID :"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/metabox.php:39
+#: framework/hospital-doctor-directory/admin/pages/doctor-metabox.php:39
+msgid "Approve"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:20
+msgid "Directory Setting"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:50
+msgid "Days #"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:57
+msgid "The new item badge will show for the days"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:62
+msgid "Listing Page toggle button[Search + Map] "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:66
+msgid "Show"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:71
+msgid "Hide"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:76
+msgid "Listing Page Top Map"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:80
+msgid "Show  Top Map"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:85
+msgid "Hide Top Map"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:92
+msgid "Listing Page Search Bar"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:96
+msgid "Show  Search Bar"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:101
+msgid "Hide Search Bar"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:112
+msgid "Show Claim"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:117
+msgid "Hide Claim"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:124
+msgid "Listing Publish By User"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:129
+msgid "Admin Will Approve "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:135
+msgid "User Can Publish"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:146
+msgid "Listing Radius"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/dir_setting.php:164
+#: framework/hospital-doctor-directory/admin/pages/settings.php:1012
+msgid "Cron Job URL"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:187
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:317
+msgid "Create A New Package"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:198
+msgid "All Package / Membership Level"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:216
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:96
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:664
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:26
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:23
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:2
+msgid "Package Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:217
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:700
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:65
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:76
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:60
+msgid "Amount"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:218
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:44
+msgid "Link"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:219
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:588
+msgid "User Role"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:220
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:57
+msgid "Status"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:334
+msgid ""
+"User role \"Basic\" is created on the plugin activation. Paid exprired or "
+"unsuccessful payment user will set on the \"Basic\" user role."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:348
+msgid "Package Page :"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_all.php:360
+msgid ""
+"Note: You can use other available pricing table. The package link URL will "
+"go on \"Sign UP \" button."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/directory_fields.php:29
+msgid "Listing Fields"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:29
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:184
+msgid " Category Image / Map Marker"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:35
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:191
+msgid "Category Main"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:36
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:192
+msgid "Sub Category"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:37
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:193
+msgid "Map Marker"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:38
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:194
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:395
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:397
+msgid "Category Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:348
+#: framework/hospital-doctor-directory/admin/pages/map_marker.php:350
+msgid "Marker Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:29
+msgid "Update Profile Setting"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:41
+msgid "Menu Title / Label"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:58
+msgid "Hospital Home"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:81
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:483
+msgid "Membership Level"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:106
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:674
+msgid "Account Settings"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:129
+msgid "All Listing"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:153
+msgid "New Hospital"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:177
+msgid "New Doctor"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:202
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:610
+#: framework/hospital-doctor-directory/template/private-profile/my-favorites-1.php:215
+msgid "My Favorites"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:225
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:219
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:625
+msgid "Who is Interested"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:303
+msgid "User Profile Fields"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:310
+msgid "User Meta Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:402
+msgid "Display the user meta on \"Public Profile"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:404
+msgid ""
+"Open the template file  your-theme/directory-pro/profile-public/profile-"
+"template-1.php and put the code on the file. It will display  the  "
+"\"first_name\" user meta value."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:408
+msgid "Overriding templates"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/profile-fields.php:409
+msgid ""
+"The template files can be found within the /directory-pro/template/ "
+"directory: Copy the template folder and paste it on your current theme "
+"folder and rename it as \"directorypro\"."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:20
+msgid "Pages Restriction By Roles"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:44
+msgid "Page Visibility Module :"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:47
+msgid "Show Page By Role Access"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:58
+msgid "Select which pages are available for each user role.\t"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/protected_page.php:83
+#: framework/hospital-doctor-directory/admin/pages/settings.php:554
+msgid "Check/Uncheck"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:48
+msgid "Page"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:49
+msgid "Listing URL"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:50
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:246
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:255
+msgid "Directory"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:51
+msgid "Category Image/Marker"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:52
+msgid "Payment Page"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:54
+msgid "MailChimp"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:55
+msgid "Page Redirect"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:56
+#: framework/hospital-doctor-directory/admin/pages/settings.php:490
+msgid "Visibility Control"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:58
+msgid "Tax"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:92
+msgid "Tax Setting"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:117
+msgid "Tax Module "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:121
+msgid "Active Tax On Registration"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:126
+msgid "No Tax"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:135
+msgid "Tax Type "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:139
+msgid "Common Tax"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:144
+msgid "Tax By Country"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:156
+msgid "Common Tax % "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:169
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:160
+msgid "Country"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:170
+msgid "Tax %"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:471
+msgid "Note : Tax will not work on Stripe Ruccring Subscriotion Payment"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:509
+msgid "Content Visibility Module "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:525
+msgid "Content Show By Roles"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/settings.php:529
+msgid "Select which contents are available for each user role.\t"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:275
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:276
+msgid "Access Control/Options"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:277
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:278
+msgid "Maximum listing (Hospital + Doctor)"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:280
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:281
+msgid "Maximum # of post by this package. Blank is none."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:284
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:285
+msgid "listing Visibility"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:287
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:288
+msgid "listing will hide after user subscription expire."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:292
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:293
+msgid "Hospital Event"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:295
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:296
+msgid "Can Add Event."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:302
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:303
+msgid "Hospital's Doctor"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:305
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:306
+msgid "Can Add doctors list."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:311
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:312
+msgid "listing Videos"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:314
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:315
+msgid "Can Add Videos."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:319
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:320
+msgid "listing Award"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:322
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:323
+msgid "Can Add Award."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:328
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:330
+msgid "Doctor Appointment"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_update.php:331
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:333
+msgid "Can Add Doctor Appointment Shortcode"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:72
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:345
+msgid "Save Package"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:76
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:102
+msgid "Package Feature List"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:105
+msgid "It will display on price list table"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:108
+msgid "Billing Details"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:111
+msgid "Initial Payment"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:114
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:119
+msgid "Package Expire After"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:154
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:161
+msgid "Recurring Subscription"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:164
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:170
+msgid "Billing Amount"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:174
+msgid "Per"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:188
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:193
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:216
+msgid "Trial"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:219
+msgid "Enable Trial Period"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:222
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:230
+msgid "Trial Amount"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:233
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:238
+msgid "Trial Period"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/package_create.php:268
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/update.php:9
+msgid "Update Products"
+msgstr ""
+
+#: framework/hospital-doctor-directory/admin/pages/update.php:10
+msgid "Synchronize your Products from Amazon with latest data"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:89
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:124
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:716
+msgid "About"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:107
+msgid "Mobile"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/profile-public/profile-template.php:155
+msgid "User Listing"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/hospital/slider-search.php:23
+msgid "Filter By Keyword"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/hospital/slider-search.php:42
+msgid "Choose a Specialty"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/hospital/slider-search.php:44
+msgid ""
+"Allergy & Immunology, Anaesthesia,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWeight Loss Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar , Nose and Throat Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Radiology, \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy \r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/hospital/hospital_featured.php:32
+msgid "Featured "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:10
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:510
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:620
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:669
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:817
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:881
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:926
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:966
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1024
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1207
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:10
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:439
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:549
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:598
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:746
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:791
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:831
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:895
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1075
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:418
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:514
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:578
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:652
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:702
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:749
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:789
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:945
+msgid "Edit "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:48
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:48
+msgid "Please "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:49
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:49
+msgid "Login or upgrade "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:50
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:50
+msgid "To Edit The Post."
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:68
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:58
+msgid " Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:70
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:60
+msgid "Enter "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:97
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:84
+msgid " logo"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:117
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:152
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1277
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:120
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:94
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:95
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:113
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1072
+msgid "Add"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:125
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:102
+msgid "Feature Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:163
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:125
+msgid "Image Gallery"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:164
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:126
+msgid "Add Images"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:202
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:128
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:118
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:149
+msgid "Post Status"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:209
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:135
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:125
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:156
+msgid "Publish"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:212
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:138
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:128
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:159
+msgid "Pending Review"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:228
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:154
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:144
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:175
+msgid "Category"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:240
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:166
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:150
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:181
+msgid "Choose a category"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:315
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:241
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:229
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:260
+msgid "Address"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:317
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:243
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:231
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:262
+msgid "Enter here Here"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:327
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:253
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:241
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:272
+msgid "Address Map"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:505
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:434
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:413
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:442
+msgid "Specialtie(s)"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:520
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:449
+msgid ""
+"Allergy & Immunology, Anaesthesia,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBariatric (Weight Loss) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar, Nose and Throat (ENT) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic and Reconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery and Management, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular & Interventional Radiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:629
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:558
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:661
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:554
+msgid "Enter Phone Number"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:636
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:565
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:668
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:561
+msgid "Enter Fax Number"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:640
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:569
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:672
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:565
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:134
+msgid "Email Address"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:643
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:572
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:675
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:568
+msgid "Enter Email Address"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:650
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:579
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:682
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:575
+msgid "Enter Web Site"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:694
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:749
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:679
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:592
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:607
+msgid "Award Title"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:698
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:627
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:595
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:610
+msgid "Enter award title *required"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:702
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:756
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:631
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:686
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:599
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:614
+msgid "Award Description"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:705
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:759
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:634
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:689
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:602
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:617
+msgid "Enter Award Description"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:709
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:763
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:638
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:693
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:606
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:621
+msgid "Year(s) for which award was received"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:712
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:766
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:641
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:696
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:609
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:624
+msgid "Enter Award Year"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:716
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:770
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:645
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:700
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:613
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:628
+msgid "Award Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:752
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:682
+msgid "Enter award title"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:796
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:726
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:633
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:648
+msgid "Please upgrade your account to add Award "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:863
+msgid "Please upgrade your account to add  "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:876
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:741
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:697
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:724
+msgid "Videos"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:894
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:759
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:715
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:742
+msgid "Youtube"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:897
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:762
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:718
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:745
+msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:901
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:766
+msgid "Vimeo"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:904
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:769
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:725
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:752
+msgid "Enter vimeo ID, e.g : 134173961"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:909
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:774
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:730
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:757
+msgid "Please upgrade your account to add video "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:921
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:786
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:744
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:771
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:961
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:826
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:509
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:811
+msgid "Additional Info"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1019
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:890
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:784
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:869
+msgid "Opening Time"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1062
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:929
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:800
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:885
+msgid "Monday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1063
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:930
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:801
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:886
+msgid "Tuesday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1064
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:931
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:802
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:887
+msgid "Wednesday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1065
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:932
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:803
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:888
+msgid "Thursday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1066
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:933
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:804
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:889
+msgid "Friday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1067
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:934
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:805
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:890
+msgid "Saturday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1068
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:935
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:806
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:891
+msgid "Sunday"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1074
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:941
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:812
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:897
+msgid "Closed"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1075
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:942
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:813
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:898
+msgid "Always"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1219
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1042
+msgid "Event Title"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1220
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1043
+msgid "Enter Title Here"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1223
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1046
+msgid "Event Detail"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1240
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1061
+msgid "Event Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1289
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1078
+msgid "Please upgrade your account to add event "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1303
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1121
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:990
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1091
+msgid "Save Post"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1385
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1203
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1169
+msgid "Set Feature Image "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1387
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1205
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1171
+msgid "Set Feature Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1414
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1232
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1247
+msgid "Set Event Image "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1416
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1234
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1249
+msgid "Set Event Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1443
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1261
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1272
+msgid "Set Deal/Coupon Image "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1445
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1263
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1274
+msgid "Set Deal/Coupon Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1473
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1291
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1300
+msgid "Gallery Images "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1475
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1293
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1302
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1517
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1335
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1194
+msgid "Set Logo Image "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1519
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1337
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1196
+msgid "Set Logo Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1546
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1364
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:1089
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1221
+msgid "Set award Image "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-hospital-edit.php:1548
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1366
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:1091
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1223
+msgid "Set award Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:247
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:256
+#: framework/hospital-doctor-directory/template/private-profile/interested-1.php:308
+#: framework/hospital-doctor-directory/template/private-profile/my-favorites-1.php:286
+msgid "Contact"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:505
+msgid "Change Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:565
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:27
+msgid "All Listings"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:580
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:595
+msgid "Add New "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:643
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:33
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:34
+msgid " Home"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:658
+msgid "Upgrade My Account"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:707
+msgid "Sign out"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:801
+#: framework/hospital-doctor-directory/template/private-profile/profile-template-1.php:803
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:93
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:83
+msgid "Profile Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:56
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:145
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:58
+msgid "Type"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:59
+msgid "Expire"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:60
+msgid "Actions"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-all-post-1.php:157
+msgid ""
+"Currently you have no listings added. Please manage your account from the "
+"sidebar on the left."
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:181
+#: framework/hospital-doctor-directory/template/private-profile/my-favorites-1.php:277
+msgid "Profile"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:185
+msgid "Personal Info"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:188
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:302
+msgid "Change Password"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:191
+msgid "Social"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:194
+msgid "Privacy Settings"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:280
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:330
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:372
+msgid "Save Changes"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:289
+msgid "Current Password"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:293
+msgid "New Password"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:297
+msgid "Re-type New Password"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:342
+msgid "Hide Email Address "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:346
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:355
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:364
+msgid "Yes"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:351
+msgid "Hide Phone Number"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-setting-1.php:360
+msgid "Hide Mobile Number"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:17
+msgid "Sign In"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:26
+msgid "Username"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:49
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:81
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:199
+#: framework/hospital-doctor-directory/template/private-profile/contact_popup.php:24
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:221
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:177
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:183
+msgid "Submit"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:53
+msgid "Remember"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:56
+msgid "Forgot Password?"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:65
+msgid "Create an account"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:72
+msgid "Forget Password ?"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-login.php:80
+#: framework/redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:68
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:59
+msgid "Full Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:70
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:61
+msgid "Enter Full Name Here"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:623
+msgid "Award Title "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1070
+msgid "Booking"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1087
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:957
+msgid "Appointment Detail"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1103
+msgid "Or, Booking Shortcode"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-doctor-edit.php:1108
+msgid "Please upgrade your account to add booking detail "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:487
+msgid "Current"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:490
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:763
+msgid "Upgrade"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:494
+msgid "Cancel"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:518
+msgid "Current Package"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:538
+msgid "Package Amount"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:568
+msgid "Package Type"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:608
+msgid "Exprie Date"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:630
+msgid "Next Payment Date"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:719
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:82
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:102
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:85
+msgid "Vat/Tax"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:750
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:113
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:133
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:119
+msgid "Total"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:789
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:805
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:844
+msgid "Cancel Reason"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:806
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:845
+msgid "Canceling Reason"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:812
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:850
+msgid "Cancel Membership"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:822
+#: framework/hospital-doctor-directory/template/private-profile/profile-level-1.php:859
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:10
+msgid "Add new "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:43
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:43
+msgid "Please upgrade your account"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:44
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:44
+msgid "here"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:45
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:45
+msgid "to add more post."
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:132
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:163
+msgid "Draft"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:428
+msgid ""
+"Allergy & Immunology, Anaesthesia,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBariatric (Weight Loss) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar, Nose and Throat (ENT) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic and Reconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery and Management, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular & Interventional Radiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:722
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:749
+msgid "vimeo"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:972
+msgid "Or, Appointment Shortcode"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:978
+msgid "Please upgrade your account to add Appointment detail "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:1063
+msgid "Set Profile Image "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-doctor.php:1065
+msgid "Set Profile Image"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:119
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:140
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:3
+msgid "Card Number"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:121
+msgid "Enter card number"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:121
+msgid "Card number is not correct"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:125
+msgid "Card CVV"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:128
+msgid "CVV number is not correct"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:128
+msgid "Enter card CVC"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/iv_stripe_form_upgrade.php:132
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:153
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:11
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/my-favorites-1.php:259
+msgid "Address :"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/my-favorites-1.php:301
+msgid "Note: "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/my-favorites-1.php:319
+msgid "No data available"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/contact_popup.php:10
+msgid "Message Board"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/contact_popup.php:14
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:19
+msgid "Subject"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:9
+msgid "New "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:447
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:545
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:594
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:668
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:729
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:776
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:816
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:874
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:1030
+msgid "Edit  "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:457
+msgid ""
+"Allergy & Immunology, Anaesthesia,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBariatric (Weight Loss) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar, Nose and Throat (ENT) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic and Reconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery and Management, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular & Interventional Radiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/private-profile/profile-new-hospital.php:709
+msgid "Please upgrade your account to add Physician "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/user-directory/directory-template.php:39
+msgid "Sort By:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:88
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:494
+#: framework/hospital-doctor-directory/template/signup/paypal_form_2.php:73
+msgid "Have a coupon?"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/iv_stripe_form_2.php:146
+msgid "Card CVV "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:101
+msgid "User Information"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:129
+msgid " The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:136
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:13
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:163
+msgid "Please select your country"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:423
+msgid "Select Country"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:455
+msgid "Payment Info"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/wizard-style-2.php:493
+msgid "Hide Coupon"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/coupon_form_2.php:3
+msgid "Discount Coupon"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/signup/coupon_form_2.php:10
+msgid "(-) Discount"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/pricing-table/price-table.php:124
+msgid "Sign up Now"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/doctor/doctor_categories.php:20
+msgid " Categories"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/doctor/doctor_featured_home.php:38
+msgid " Featured "
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/doctor/ajax-single-doctor.php:85
+msgid "MORE DETAIL"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/doctor/doctor_featured.php:39
+msgid " Featured Listing"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:3
+msgid "Name:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:5
+msgid "Your Name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:5
+msgid "Enter your name"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:11
+msgid "Email:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:13
+msgid "Your email"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:17
+msgid "Subject:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:24
+msgid "Message:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/template/contact/contact-us.php:26
+msgid "Message"
+msgstr ""
+
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:7
+msgid "CVC"
+msgstr ""
+
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:18
+msgid "Payment Type:"
+msgstr ""
+
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:19
+msgid "One time payment"
+msgstr ""
+
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:20
+msgid "Recurring monthly payment"
+msgstr ""
+
+#: framework/hospital-doctor-directory/files/short_code_file/iv_stripe_form_display.php:26
+msgid "Submit Payment"
+msgstr ""
+
+#: framework/admin/theme-functions.php:200
+msgid "Your comment is awaiting to approve"
+msgstr ""
+
+#: framework/redux/class.redux-plugin.php:298
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: framework/redux/class.redux-plugin.php:298
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: framework/redux/ReduxCore/framework.php:209
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: framework/redux/ReduxCore/framework.php:209
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/redux/ReduxCore/framework.php:213
+#: framework/redux/ReduxCore/framework.php:217
+msgid "Options"
+msgstr ""
+
+#: framework/redux/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: framework/redux/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: framework/redux/ReduxCore/templates/panel/footer.tpl.php:67
+msgid "Working..."
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:312
+msgid ""
+"Your panel has bundled outdated copies of Redux Framework template files. if "
+"you encounter functionality issues this could be the reason. Ensure you "
+"update or remove them."
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/class.redux_filesystem.php:270
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:73
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:126
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:188
+#: framework/redux/ReduxCore/inc/fields/background/field_background.php:314
+msgid "Upload"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:190
+#: framework/redux/ReduxCore/inc/fields/background/field_background.php:321
+msgid "Remove"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:149
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:153
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/media/field_media.php:149
+#: framework/redux/ReduxCore/inc/fields/background/field_background.php:277
+msgid "No media selected"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/color/field_color.php:73
+msgid "Transparent"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/select/field_select.php:83
+msgid "Select an item"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
