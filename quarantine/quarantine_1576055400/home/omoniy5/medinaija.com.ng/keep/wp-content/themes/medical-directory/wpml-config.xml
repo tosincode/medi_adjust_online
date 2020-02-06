@@ -1,0 +1,459 @@
+<wpml-config>
+    
+    <custom-fields> 
+        <custom-field action="copy">_medicaldirectory_slider_slider_image</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_icon_image</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_title</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_description</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_btn_name1</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_btn_link1</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_btn_name2</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_btn_link2</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_video_name</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_slider_link1</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_slider_link2</custom-field>
+        <custom-field action="copy">_medicaldirectory_slider_slider_link3</custom-field>
+
+        <custom-field action="copy">_medicaldirectory_company_location_map</custom-field>
+        <custom-field action="copy">_medicaldirectory_company_location_contact</custom-field>
+        <custom-field action="copy">_medicaldirectory_company_location_icon</custom-field>
+
+        <custom-field action="copy">_medicaldirectory_property_address_country_name</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_region_name</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_address_name</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_zip</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_map_canvas</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_convert_zip</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_lat</custom-field>
+        <custom-field action="copy">_medicaldirectory_property_address_lng</custom-field>
+
+        <custom-field action="copy">_medicaldirectory_progress_bar_accordian_shortcode</custom-field>
+        <custom-field action="copy">_medicaldirectory_progress_bar_progress_shortcode</custom-field>
+
+        <custom-field action="copy">_medicaldirectory_pricing_column</custom-field>
+        <custom-field action="copy">_medicaldirectory_pricing_shortcode</custom-field>
+
+        <custom-field action="copy">_medicaldirectory_testimonial_author_name</custom-field>
+        <custom-field action="copy">_medicaldirectory_testimonial_author_address</custom-field>
+        <custom-field action="copy">_medicaldirectory_testimonial_author_designation</custom-field>
+        <custom-field action="copy">_medicaldirectory_testimonial_author_company</custom-field>
+
+        <custom-field action="copy">_tons_of_feature_icon</custom-field>
+        <custom-field action="copy">_tons_of_featurel_icon</custom-field>
+       
+        <custom-field action="copy">_company_info_feature_icon</custom-field>
+        <custom-field action="copy">_company_info_feature_number</custom-field>
+        <custom-field action="copy">_company_info_feature_title</custom-field>
+    </custom-fields>
+
+
+    <custom-types>
+        <custom-type translate="1">block</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">slider</custom-type>
+        <custom-type translate="1">medicaldirectory_progress</custom-type>
+        <custom-type translate="1">medicaldirectory_pricing</custom-type>
+        <custom-type translate="1">company_location</custom-type>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">feature</custom-type>
+        <custom-type translate="1">company</custom-type>
+    </custom-types>
+
+    <admin-texts>
+        <key name="medicaldirectory_option_data">
+            <key name="medicaldirectory-favicon">
+                <key name="1">
+                    <key name="url" />
+                    <key name= "id" />
+                    <key name="height" />
+                    <key name="width" />
+                    <key name="thumbnail" />
+                </key>
+            </key>
+            <key name="medicaldirectory-favicon-iphone">
+                <key name="1">
+                    <key name="url" />
+                    <key name= "id" />
+                    <key name="height" />
+                    <key name="width" />
+                    <key name="thumbnail" />
+                </key>
+            </key>
+            <key name="medicaldirectory-favicon-ipad">
+                <key name="1">
+                    <key name="url" />
+                    <key name= "id" />
+                    <key name="height" />
+                    <key name="width" />
+                    <key name="thumbnail" />
+                </key>
+            </key>
+            
+            <key name="medicaldirectory-custom-css" />
+            <key name="medicaldirectory-custom-js" />
+            <key name="medicaldirectory-show-page-sidebar" />
+            <key name="medicaldirectory-share-button" />
+            <key name="medicaldirectory-share-button-facebook" />
+            <key name="medicaldirectory-share-button-twitter" />
+            <key name="medicaldirectory-share-button-google" />
+            <key name="medicaldirectory-share-button-linkedin" />
+            <key name="medicaldirectory-share-button-envelope" />
+            <key name="medicaldirectory-share-button-pinterest" />
+            <key name="medicaldirectory-top-language" />
+            <key name="medicaldirectory-login-option" />
+            
+            <key name="medicaldirectory-wpml-select"/>
+            <key name="medicaldirectory-header-switch"/>
+            <key name="medicaldirectory-multi-header-image" />
+            <key name="medicaldirectory-social-profile-title" />
+            <key name="medicaldirectory-blog-switch" />
+            <key name="medicaldirectory-multi-breadcrumb-image" />
+            <key name="medicaldirectory-breadcrumb-switch" />
+            <key name="medicaldirectory-multi-topBar-image" />
+            <key name="medicaldirectory-top-bar-switch" />
+            
+            
+            <key name="medicaldirectory-social-profile"/>
+            <key name="medicaldirectory-facebook-profile"/>
+            <key name="medicaldirectory-twitter-profile"/>
+            <key name="medicaldirectory-google-profile"/>
+            <key name="medicaldirectory-linkedin-profile"/>
+            <key name="medicaldirectory-pinterest-profile"/>
+            
+            <key name="medicaldirectory-partners-switch"/>
+            <key name="medicaldirectory-our-partners">
+                <key name="1">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                    <key name="sort" />
+                    <key name="attachment_id" />
+                    <key name="thumb" />
+                    <key name="image" />
+                    <key name="height" />
+                    <key name="width" />
+                </key>
+            </key>
+            <key name="medicaldirectory-sidebar-latest-news-image" />
+            <key name="medicaldirectory-footer-menu-switch" />
+            <key name="medicaldirectory-footer-switch" />
+            <key name="medicaldirectory-multi-footer-image" />
+            <key name="medicaldirectory-bottom-switch" />
+            <key name="medicaldirectory-multi-bottom-image" />
+            <key name="medicaldirectory-left-footer-switch" />
+            <key name="medicaldirectory-middle-footer-switch" />
+            <key name="medicaldirectory-right-footer-switch" />
+            <key name="medicaldirectory-down-footer-switch" />
+            <key name="medicaldirectory-extra-middle-footer-switch" />
+            <key name="medicaldirectory-show-footer-credits" />
+            <key name="medicaldirectory-show-footer-copyrights" />
+            <key name="medicaldirectory-copyright-text" />
+            <key name="medicaldirectory-after-copyright-text" />
+            <key name="medicaldirectory-privacy" />
+            <key name="medicaldirectory-condition" />
+            <key name="medicaldirectory-select-stylesheet" />
+            
+            
+            
+            
+            
+            
+            <key name="medicaldirectory-language">
+                <key name="1">
+                    <key name="EN" />
+                    <key name="DE" />
+                    <key name="IT" />
+                    <key name="FR" />
+                </key>
+            </key>
+            
+            
+            <key name="medicaldirectory-left-footer-switch"/>
+            <key name="medicaldirectory-middle-footer-switch"/>
+            <key name="medicaldirectory-right-footer-switch"/>
+            <key name="medicaldirectory-show-footer-copyrights"/>
+            <key name="medicaldirectory-copyright-text"/>
+            <key name="medicaldirectory-powered-by"/>
+            <key name="medicaldirectory-company-link"/>
+            <key name="medicaldirectory-select-stylesheet"/>
+            
+            <key name="medicaldirectory-body-typography">
+                <key name="1">
+                    <key name="font-family" />
+                    <key name="font-options" />
+                    <key name="google" />
+                    <key name="font-backup" />
+                    <key name="font-weight" />
+                    <key name="font-style" />
+                    <key name="text-align" />
+                    <key name="line-height" />
+                    <key name="color" />
+                </key>
+            </key>
+            
+            <key name="medicaldirectory-header-typography">
+                <key name="1">
+                    <key name="font-family" />
+                    <key name="font-options" />
+                    <key name="google" />
+                    <key name="font-backup" />
+                    <key name="font-weight" />
+                    <key name="font-style" />
+                    <key name="text-align" />
+                    <key name="line-height" />
+                    <key name="color" />
+                </key>
+            </key>
+            
+            <key name="medicaldirectory-opt-text">
+                <key name="medicaldirectory-opt-textarea">
+                    
+                    <key name="medicaldirectory-about-company-slides">
+                        <key name="1">
+                            <key name="title" />
+                            <key name="description" />
+                            <key name="url" />
+                            <key name="sort" />
+                            <key name="attachment_id" />
+                            <key name="thumb" />
+                            <key name="image" />
+                            <key name="height" />
+                            <key name="width" />
+                        </key>
+                    </key>
+                    
+                    <!-- need from here -->
+                    <key name="medicaldirectory-about-company-text">
+                        <key name="medicaldirectory-about-company-textarea">
+                            
+                            <key name="medicaldirectory-page-banner-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            <key name="medicaldirectory-page-banner-icon">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <key name="medicaldirectory-construction-header-slider">
+                                <key name="1">
+                                    <key name="title" />
+                                    <key name="description" />
+                                    <key name="url" />
+                                    <key name="sort" />
+                                    <key name="attachment_id" />
+                                    <key name="thumb" />
+                                    <key name="image" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                </key>
+                            </key>
+                            
+                            
+                            <key name="medicaldirectory-construction-testimonial-footer-banner-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            <key name="construction-feature-big-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            
+                            
+                            <key name="medicaldirectory-testimonial-footer-banner-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />	
+                                    <key name="thumbnail" />			
+                                </key>				
+                            </key>
+                            
+                            <key name="medicaldirectory-construction-TOF-title">
+                                <key name="construction-construction-image">
+                                    <key name="1">
+                                        <key name="url" />
+                                        <key name="id" />
+                                        <key name="height" />
+                                        <key name="width" />	
+                                        <key name="thumbnail" />			
+                                    </key>				
+                                </key>
+                                
+                                <key name="medicaldirectory-construction-textarea">
+                                    <key name="medicaldirectory-construction-partner">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>			
+                                    </key>
+                                    
+                                    
+                                    <key name="medicaldirectory-service-testimonials">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>			
+                                    </key>
+                                    
+                                    <key name="construction-about-company-slides">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>			
+                                    </key>
+                                    
+                                    
+                                    <key name="medicaldirectory-opt-slides">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>				
+                                    </key>
+                                    
+                                    
+                                    <key name="medicaldirectory-home-page-slider">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>				
+                                    </key>
+                                    <key name="medicaldirectory-login-option"/>
+                                    <key name="medicaldirectory-general-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="medicaldirectory-product-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="medicaldirectory-driver-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="medicaldirectory-testimonial-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="medicaldirectory-contact-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="medicaldirectory-location-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    
+                                    
+                                    
+                                    
+                                    <key name="medicaldirectory-show-footer-widgets"/>
+                                    <key name="medicaldirectory-footer-widgets-icon">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    
+                                    <key name="medicaldirectory-copyright-text"/>
+                                    <key name="medicaldirectory-powered-by"/>
+                                    <key name="medicaldirectory-company-link"/>
+                                    <key name="medicaldirectory-select-stylesheet"/>			
+                                    
+                                    
+                                    
+                                </key>
+                            </admin-texts>
+                            
+                        </wpml-config>
